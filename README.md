@@ -157,7 +157,7 @@ If you use this code or dataset in your research, please cite:
 - **📊 Dataset**: [data/synthetic_healthcare_iot_dataset_enhanced.csv](data/synthetic_healthcare_iot_dataset_enhanced.csv)
 - **📖 Getting Started**: [GETTING_STARTED.md](GETTING_STARTED.md)
 - **📋 Documentation**: [data/README.md](data/README.md)
-- **📄 Paper**: [Internet of Things Journal (Under Review)](https://www.sciencedirect.com/journal/internet-of-things)
+- **📄 Paper**: [Array (Under Review)](https://www.sciencedirect.com/journal/array)
 
 ## 👥 Authors
 
